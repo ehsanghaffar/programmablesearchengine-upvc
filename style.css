@@ -1,0 +1,76 @@
+
+body {
+    font-family: 'Vazir', sans-serif !important;
+}
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre {
+    font-family: 'Vazir', sans-serif !important;
+}
+
+.gsc-webResult.gsc-result {
+  padding: 1rem;
+  text-align: left;
+}
+
+.gsc-control-cse .gs-spelling, .gsc-control-cse .gs-result .gs-title, .gsc-control-cse .gs-result .gs-title * {
+  padding: 0.4rem 0;
+}
+
+.gs-web-image-box, .gs-promotion-image-box {
+  width: 100px !important;
+}
+
+.gs-web-image-box .gs-image, .gs-promotion-image-box .gs-promotion-image {
+  max-width: 90px !important;
+}
+
+.gsc-table-cell-snippet-close {
+  padding: 10px 0 !important;
+}
+
+.gsc-webResult.gsc-result, .gsc-results .gsc-imageResult {
+  border-bottom: 1px solid #eee !important;
+}
+
+.gsib_a {
+  padding: 10px 5px 10px 5px !important;
+}
+
+#___gcse_0 {
+  border: 1px solid #ccc !important;
+  border-radius: 6px !important;
+}
+
+.gsc-input-box {
+  border: none !important;
+}
+
+.gsc-search-button-v2 {
+  background: #fff !important;
+  border: none !important;
+  padding: 10px !important;
+  margin: 5px !important;
+}
+.gsc-search-button-v2 svg {
+  fill: #aaa !important;
+  width: 20px !important;
+  height: 20px !important;
+}
+
+.footer {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  background: #f2f2f2;
+  border-top: 1px solid #dadce0;
+  font-size: 14px;
+  color: #70757a;
+}
